@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "first_name": "Botir",
+      "last_name": "Hakimov",
+      "email": "Botir@yahoo.com"
+    },
+    {
+      "first_name": "Ali  vali",
+      "last_name": "Bakirov",
+      "email": "Ali@yahoo.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "first_name": "Vali",
+      "last_name": "Aliyev",
+      "email": "Vali@yahoo.com"
+    },
+    {
+      "id": 5,
+      "first_name": "Jamshid",
+      "last_name": "Hakimov",
+      "email": "Jamshid@yahoo.com"
+    },
+    {
+      "id": 6,
+      "first_name": "Jasur",
+      "last_name": "Valiyev",
+      "email": "jasur@mail.ru"
+    },
+    {
+      "first_name": "Shoxa",
+      "last_name": "Ganiyev",
+      "email": "gani@mail.ru",
+      "id": 8
+    }
+  ]
+}
